@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008640485628",
+    "project_id": "ratemybites",
+    "storage_bucket": "ratemybites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008640485628:android:17ec67fc669c7775f2cf79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ratemybites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBxkLIPPd1U6EINNwqy4EmXhO1Cek9RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
